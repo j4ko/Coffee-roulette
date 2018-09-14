@@ -1,4 +1,4 @@
-Coffee-roulette
+Example-Project
 ===============
 
-A simple project to play with partners and have fun!
+A simple project to play!
